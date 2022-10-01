@@ -7,7 +7,7 @@ one Python installation to meet such requirements of every application. So,
 in the world of Python, the solution for this problem is virtual environment,
 which creates a separate self-contained directory tree containing a Python
 installation of the required version alongside the required packages.<br>
-## Installing flask windows:<br><br>
+## Installing flask windows:<br>
 <b>firstly its neccessary to have python intalled in your machine<br></b> 
 ```pip install flask```<br>
 for checking version:<br>
